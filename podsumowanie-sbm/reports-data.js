@@ -1,6 +1,6 @@
 window.REPORTS = [
   {
-    file: "biofeedmarzec2026.pdf",
+    file: "SBMbiofeedmarzec2026.pdf",
     title: "Marzec 2026",
     published: "2026-04-13",
     note: "Podsumowanie miesięczne rynku śruty sojowej."
