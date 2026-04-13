@@ -6,7 +6,7 @@ window.REPORTS = [
     note: "Podsumowanie miesięczne rynku śruty sojowej."
   },
   {
-    file: "biofeedluty2026.pdf",
+    file: "SBMbiofeedluty2026.pdf",
     title: "Luty 2026",
     published: "2026-03-12",
     note: "Podsumowanie miesięczne rynku śruty sojowej."
